@@ -3,6 +3,11 @@
 #### Full Video 
 => https://www.youtube.com/watch?v=XkVpb_8IPUM
 
+#### Short Video 
+=> https://www.youtube.com/watch?v=5RA5NpxbioI&t=1471s
+
+
+
 #### ReactJS + Spring Boot CRUD Full Stack App - 1 - Project Overview
 => https://youtu.be/n43h1eJ2EUE
 
